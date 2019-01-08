@@ -1,3 +1,3 @@
 #coding: utf-8
 
-print "here is bug"
+print "there is bug"
