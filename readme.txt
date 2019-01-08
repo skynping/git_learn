@@ -6,3 +6,7 @@ Creating a new branch is quick and simple.
 dev thing
 
 dev thing2
+
+dev2 thing
+
+dev2 thing2
